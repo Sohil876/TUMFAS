@@ -1,0 +1,6 @@
+Setup termux as launcher:-
+   https://github.com/amsitlab/termuxlauncher
+Open android apps easily with "launch [AppName]":-
+    write it to your ~/.bashrc or ~/.bash_profile once:
+        source "${EXTERNAL_STORAGE}/termuxlauncher/.apps-launcher"
+
